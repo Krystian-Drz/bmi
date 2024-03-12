@@ -1,0 +1,19 @@
+body
+{
+    background-image: radial-gradient(rgb(207, 25, 98), rgb(230, 13, 107));
+    font-family: Arial;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+}
+
+hr
+{
+    width: 700px;
+    size: 10px;
+}
+input
+{
+    width: 100px;
+    text-align: right;
+}
